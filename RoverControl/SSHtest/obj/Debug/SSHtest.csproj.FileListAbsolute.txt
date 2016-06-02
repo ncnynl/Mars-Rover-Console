@@ -1,0 +1,16 @@
+C:\Users\TSmith01\Documents\Visual Studio 2013\Projects\SSHtest\SSHtest\bin\Debug\SSHtest.exe.config
+C:\Users\TSmith01\Documents\Visual Studio 2013\Projects\SSHtest\SSHtest\bin\Debug\SSHtest.exe
+C:\Users\TSmith01\Documents\Visual Studio 2013\Projects\SSHtest\SSHtest\bin\Debug\SSHtest.pdb
+C:\Users\TSmith01\Documents\Visual Studio 2013\Projects\SSHtest\SSHtest\bin\Debug\Tamir.SharpSSH.dll
+C:\Users\TSmith01\Documents\Visual Studio 2013\Projects\SSHtest\SSHtest\obj\Debug\SSHtest.Form1.resources
+C:\Users\TSmith01\Documents\Visual Studio 2013\Projects\SSHtest\SSHtest\obj\Debug\SSHtest.Properties.Resources.resources
+C:\Users\TSmith01\Documents\Visual Studio 2013\Projects\SSHtest\SSHtest\obj\Debug\SSHtest.csproj.GenerateResource.Cache
+C:\Users\TSmith01\Documents\Visual Studio 2013\Projects\SSHtest\SSHtest\obj\Debug\SSHtest.exe
+C:\Users\TSmith01\Documents\Visual Studio 2013\Projects\SSHtest\SSHtest\obj\Debug\SSHtest.pdb
+C:\Users\TSmith01\Documents\Visual Studio 2013\Projects\SSHtest\SSHtest\bin\Debug\DiffieHellman.dll
+C:\Users\TSmith01\Documents\Visual Studio 2013\Projects\SSHtest\SSHtest\bin\Debug\Org.Mentalis.Security.dll
+C:\Users\TSmith01\Documents\Visual Studio 2013\Projects\SSHtest\SSHtest\obj\Debug\SSHtest.csprojResolveAssemblyReference.cache
+C:\Users\TSmith01\documents\visual studio 2013\Projects\SSHtest\SSHtest\bin\Debug\SSHtest.exe.manifest
+C:\Users\TSmith01\documents\visual studio 2013\Projects\SSHtest\SSHtest\bin\Debug\SSHtest.application
+C:\Users\TSmith01\documents\visual studio 2013\Projects\SSHtest\SSHtest\obj\Debug\SSHtest.exe.manifest
+C:\Users\TSmith01\documents\visual studio 2013\Projects\SSHtest\SSHtest\obj\Debug\SSHtest.application
